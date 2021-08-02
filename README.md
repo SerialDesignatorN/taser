@@ -5,7 +5,7 @@ This was meant to be a just-for-fun project. I made Taser in Shell from scratch 
 without having to type ```kill <PROCESSID>``` or ```killall <PROCESSNAME>```. Just follow the CLI with just only a argument including process ID or name. 
 Everything will be done in the shell script so you only need to type the process ID or name without to type the command.
 # How to run
-I only have instructions for Linux or Unix. Sorry, Windows users.
+I only have instructions for Linux or Unix or DOS. Sorry, Windows users.
 ### To start
 1. Clone this repo
 ```
